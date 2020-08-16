@@ -5,7 +5,7 @@
 ⚡・I'm currently working on a discord bot & a FiveM server.
 
 ### Listening to
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Karse Kaj listening to..." width="350" />](https://open.spotify.com/user/xelm73nrkjmgsj1ahujdwzjp1?si=g_LogTNWQQ-X-jgj8-nrtQ)
+// [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Karse Kaj listening to..." width="350" />](https://open.spotify.com/user/xelm73nrkjmgsj1ahujdwzjp1?si=g_LogTNWQQ-X-jgj8-nrtQ)
 
 ### Connect with me!
 
