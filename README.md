@@ -3,7 +3,9 @@
 ## I'm a Front-end developer.
 
 ⚡・I'm currently working on a discord bot & a FiveM server.
+
 ⚡・FiveM Developer
+
 ⚡・Discord Bot Developer (Unofficial)
 
 ### Connect with me!
