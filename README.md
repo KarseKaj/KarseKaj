@@ -35,6 +35,13 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="KarseKaj's Github Stats" src="https://github-readme-stats.karsekaj.vercel.app/api?username=KarseKaj&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/LowOnHp
 [discord_fivem_server]: https://discord.gg/vMcshXc
 [youtube]: https://www.youtube.com/channel/UCGRlA8-QXRL91oJfC8rgALA?view_as=subscriber
