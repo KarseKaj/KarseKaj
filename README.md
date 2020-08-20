@@ -42,6 +42,12 @@
 
 </details>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karsekaj" alt="karsekaj" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsekaj&layout=compact&hide=html" alt="karsekaj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karsekaj&show_icons=true" alt="karsekaj" /></p>
+
 [twitter]: https://twitter.com/LowOnHp
 [discord_fivem_server]: https://discord.gg/vMcshXc
 [youtube]: https://www.youtube.com/channel/UCGRlA8-QXRL91oJfC8rgALA?view_as=subscriber
