@@ -50,4 +50,4 @@
 [github]: https://github.com/KarseKaj
 [reddit]: https://www.reddit.com/user/Beyze
 [steam]: https://steamcommunity.com/profiles/76561198199275086
-[twitch]: https://github.com/KarseKaj
+[twitch]: https://www.twitch.tv/karsekaj
