@@ -1,6 +1,6 @@
 ### Hi there, I'm Karse Kaj. I'm from Denmark, and I'm coding in my spare time.
 
-## I'm a Front-end developer.
+## I'm a Full-stack developer.
 
 ⚡・I'm currently working on a discord bot, and a FiveM server - [Join the discord here][discord_fivem_server]!
 
